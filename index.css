@@ -1,0 +1,132 @@
+body{
+    background-color:white;
+    text-align: center;
+padding: 10px;   
+}
+.main{
+    padding: 10px;
+    width: 400px;
+    height: 410px;
+    background-color:#8566aa;
+    text-align: center;
+    margin: 0 auto;
+    border: 5px solid #8566aa;
+    box-shadow:0px 2px 3px #8566aa;
+}
+.todo{
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+.inpBtn{
+    font-size: 13px;
+    border-radius: 5px;
+    /* border: solid 10px #8566aa; */
+    box-shadow: 5px 5px 5px #8566aa;
+    font-weight: bold;
+    width: 180px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.btnAdd{
+    border-radius: 10px;
+    /* border: 10px solid #8566aa; */
+    box-shadow:5px 5px 5px #8566aa;
+    font-weight: bold;
+    height: 40px;
+    text-align: center;
+    justify-content: space-between;
+}
+.editBtn{
+    border-radius: 10px;
+    /* border: 10px solid #8566aa; */
+    box-shadow:5px 5px 5px #8566aa;
+    font-weight: bold;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+}
+.btn{
+    border-radius: 10px;
+    /* border: 10px solid #8566aa; */
+    box-shadow:5px 5px 5px #8566aa;
+    font-weight: bold;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+}
+/* body{
+    text-align: center;
+    width: 500px;
+    background-color: purple;
+}
+.inpBtn{
+    background-color:white;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 15px;
+    flex-direction: row;
+    border: #8566aa;
+    border-bottom-width: 30px;
+    align-self: center;
+}
+.btnAdd{
+    background-color:white;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 15px;
+    flex-direction: row;
+    border: #8566aa;
+    border-bottom-width: 30px;
+    align-self: center;
+
+    background-color: gray;
+    border-radius: 5px;
+    font-weight: bold;
+    justify-content: space-between;
+}
+.btn{
+    background-color:white;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 15px;
+    flex-direction: row;
+    border: #8566aa;
+    border-bottom-width: 30px;
+    align-self: center;
+
+    background-color: purple;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+.editBtn{
+    background-color:white;
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 15px;
+    flex-direction: row;
+    border: #8566aa;
+    border-bottom-width: 30px;
+    align-self: center;
+
+    background-color: rebeccapurple;
+    padding: 5px;
+    margin-top: 10px;
+    justify-content: end;
+    border-radius: 5px;
+} */
